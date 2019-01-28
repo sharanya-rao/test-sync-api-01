@@ -23,5 +23,6 @@
   "skip_source_output_uploading": false,
   "contribution_branch_mappings": {},
   "dependent_repositories": [],
-  "need_generate_pdf_url_template": false
+  "need_generate_pdf_url_template": false,
+  "enable_sync_aggregation": true
 }
